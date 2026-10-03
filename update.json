@@ -1,0 +1,14 @@
+{
+  "Kind": "Update",
+  "Algorithm": "ecdsa-p256-sha256",
+  "Version": "1.0.0",
+  "ReleasedUtc": "2026-10-03T08:45:13.541425Z",
+  "PackageName": "https://raw.githubusercontent.com/alloush89/generator-office-releases/main/packages/GeneratorOffice-1.0.0.zip",
+  "Sha256": "6A6AFFA997AC1AC4D17BD4356211A72BD728D85D66FDB5B227758756D47F8E89",
+  "SizeBytes": 94050383,
+  "Mandatory": false,
+  "Notes": [
+    "\"أول"
+  ],
+  "Signature": "YkQw6E7z9DfwiYAM2pkX4EkvjA8LapE+svH49rFO+rtQzwJZtnQ5zqxsnIaziAOWoyBkLenUAMye2CCkBEb/Xw=="
+}
